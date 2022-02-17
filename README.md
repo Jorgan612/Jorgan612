@@ -1,12 +1,13 @@
 <h1 align="center">Hi Friends 👋, I'm Jessica</h1>
-<h3 align="center">Former healthcare provider continuing a lifelong learning journey in the tech industry.</h3>
+<h3 align="center">Former healthcare provider continuing a lifelong learning journey as a frontend developer. 🖥</h3>
 
 - 📫 How to reach me **Jorgan612@gmail.com**
 
-- ⚡ Fun fact **Dnd fan and lover of books.**
+- ⚡ Fun fact **lover of books 📚 and DnD fan (ask me about my dice collection 🎲🎲 )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  [Connect with me:](https://www.linkedin.com/in/jessicaorgan/)
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jessicaorgan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jessicaorgan/" height="30" width="40" /></a>
 </p>
 
