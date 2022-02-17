@@ -1,4 +1,4 @@
-<h1 align="center">Hi Friends 👋, I'm Jessica</h1>
+<h1 align="center">Hi Friends, I'm Jessica 👋 🙂</h1>
 <h3 align="center">Former healthcare provider continuing a lifelong learning journey as a frontend developer. 🖥</h3>
 
 - 📫 How to reach me **Jorgan612@gmail.com**
