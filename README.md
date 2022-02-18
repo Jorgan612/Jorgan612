@@ -1,9 +1,9 @@
 <h1 align="center">Hi Friends, I'm Jessica 👋 🙂</h1>
 <h3 align="center">I'm a former healthcare provider continuing a lifelong learning journey as a frontend developer. 🖥</h3>
 
-- 📫 How to reach me **Jorgan612@gmail.com**
+- 📫 How to reach me: **Jorgan612@gmail.com**
 
-- ⚡ Fun facts: **lover of books 📚 and DnD fan (ask me about my dice collection 🎲🎲 )**
+- ⚡ Fun facts: **I'm a lover of books 📚 and a huge DnD fan (ask me about my dice collection 🎲🎲 )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
