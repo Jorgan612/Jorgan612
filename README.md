@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: **Jorgan612@gmail.com**
 
-- ⚡ Fun facts: **I'm a lover of books 📚 and a huge DnD fan (ask me about my dice collection 🎲🎲 )**
+- ⚡ Fun facts: **I love books 📚 and I am a huge DnD fan (ask me about my dice collection 🎲🎲 )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
