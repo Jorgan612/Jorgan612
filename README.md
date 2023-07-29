@@ -1,5 +1,5 @@
 <h1 align="center">Hi Friends, I'm Jessica 👋 🙂</h1>
-<h3 align="center">I'm a former healthcare provider continuing a lifelong learning journey as a front-end developer. 🖥</h3>
+<h3 align="center">I'm a former healthcare provider continuing a lifelong learning journey as a front-end software engineer. 🖥</h3>
 
 - 📫 How to reach me: **Jorgan612@gmail.com**
 
