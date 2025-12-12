@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<div align="left" style="font-size: 1.5em !important; font-weight: 700 !important; margin-top: 1.5em !important; margin-bottom: 0.5em !important;">Connect with me:</div>
+<div align="left" style="font-size: 2.4em !important; font-weight: 700 !important; margin-top: 1.5em !important; margin-bottom: 0.5em !important;">Connect with me:</div>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<div align="left" style="font-size: 1.5em !important; font-weight: 700 !important; margin-top: 1.5em !important; margin-bottom: 0.5em !important;">Languages and Tools:</div>
+<div align="left" style="font-size: 2.4em !important; font-weight: 700 !important; margin-top: 1.5em !important; margin-bottom: 0.5em !important;">Languages and Tools:</div>
 
 ###
 
