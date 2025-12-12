@@ -12,9 +12,7 @@
 
 <br clear="both">
 
-<div align="left" style="font-size: 24px; font-weight: 600; margin-top: 24px; margin-bottom: 16px;">Connect with me:</div>
-
-###
+### Connect with me:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jessicaorgan/" target="_blank">
@@ -22,9 +20,7 @@
   </a>
 </div>
 
-###
-
-<div align="left" style="font-size: 24px; font-weight: 600; margin-top: 24px; margin-bottom:16px;">Languages and Tools:</div>
+### Languages and Tools:
 
 ###
 
