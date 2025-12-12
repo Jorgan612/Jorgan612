@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi there, I'm Jessica 👋 🙂<br>I'm a front-end software engineer. 🖥</h1>
+<h1 align="center" border-bottom="none">Hi there, I'm Jessica 👋 🙂<br>I'm a front-end software engineer. 🖥</h1>
 
 ###
 
