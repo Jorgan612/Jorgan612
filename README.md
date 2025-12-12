@@ -62,6 +62,8 @@
 
 ###
 
+![jorgan612's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgan612&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=180&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
