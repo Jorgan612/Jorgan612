@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<div align="left" style="font-size: 1.5em; font-weight: 700; margin-top: 1.5em; margin-bottom: 0.5em;">Connect with me:</div>
+<div align="left" style="font-size: 1.5em !important; font-weight: 700 !important; margin-top: 1.5em !important; margin-bottom: 0.5em !important;">Connect with me:</div>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left" style="border-bottom: none !important;">Languages and Tools:</h2>
+<div align="left" style="font-size: 1.5em !important; font-weight: 700 !important; margin-top: 1.5em !important; margin-bottom: 0.5em !important;">Languages and Tools:</div>
 
 ###
 
