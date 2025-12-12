@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h2 align="left" style="border-bottom: none !important;">Connect with  me:</h2>
+<div align="left" style="font-size: 1.5em; font-weight: 700; margin-top: 1.5em; margin-bottom: 0.5em;">Connect with me:</div>
 
 ###
 
