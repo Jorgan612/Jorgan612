@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h2 align="left">Connect with  me:</h2>
+<h2 align="left" style="border-bottom: none;">Connect with  me:</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left" style="border-bottom: none;">Languages and Tools:</h2>
 
 ###
 
