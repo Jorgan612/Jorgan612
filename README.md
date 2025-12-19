@@ -61,7 +61,11 @@
 </div>
 
 ###
-<p align="center" style="padding-top: 40px;">
+
+<br>
+<br>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgan612&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="user stats" width="300">
 </p>
 
